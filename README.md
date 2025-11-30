@@ -1,8 +1,6 @@
-<!-- MATRIX HACKER BANNER -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ErikThiart/animated-gifs/master/images/matrix-code-rain.gif" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Mucyo%20Chris&fontAlign=50&fontColor=ffffff&color=0:6a0dad,100:000000" />
 </p>
-
 
 <h1>
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand Emoji" width="30px"/> 
