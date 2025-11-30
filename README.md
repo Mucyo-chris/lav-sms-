@@ -1,6 +1,8 @@
-<div align="center">
-  <img src="https://github.com/user-attachments/assets/43a8141c-1e7d-4754-b6d7-39af6b79864e" alt="GitHub Banner showcasing a professional profile" width="100%">
-</div>
+<!-- MATRIX HACKER BANNER -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ErikThiart/animated-gifs/master/images/matrix-code-rain.gif" width="100%" />
+</p>
+
 
 <h1>
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand Emoji" width="30px"/> 
