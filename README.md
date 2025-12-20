@@ -1,4 +1,4 @@
-<p align="center">
+ <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Mucyo%20Chris&fontAlign=50&fontColor=ffffff&color=0:6a0dad,100:000000" />
 </p>
 
